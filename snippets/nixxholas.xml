@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- nixxholas additions -->
-  <project path="vendor/nixxholas" name="nixxholas/android_vendor_nixxholas" />
+  <project path="vendor/lineage" name="nixxholas/android_vendor_nixxholas" />
 
   <!-- Infrastructure -->
   <project path="lineage/jenkins" name="nixxholas/hudson" groups="infra" revision="master" />
